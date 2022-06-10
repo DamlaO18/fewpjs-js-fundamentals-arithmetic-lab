@@ -1,2 +1,18 @@
+function multiply(a, b) {
+    return(a * b);
+}
+console.log(multiply(31, 2));
 
-// Write your code here
+
+
+function random () {
+
+}
+
+function mod () {
+
+}
+
+function max() {
+
+}
